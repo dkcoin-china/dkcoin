@@ -1,4 +1,4 @@
-# dkcoin
+# dkcoin-china
 
 蒂克币中国
 
